@@ -5,8 +5,8 @@
 - Download `MCP918`
 - See `www.modcoderpack.com/website/releases`
 
-# authlib:1.2
- {
+# You can add this lib
+    {
             "downloads":{
                 "artifact":{
                     "path":"me/imflowow/authlib/1.2/authlib-1.2.jar",
